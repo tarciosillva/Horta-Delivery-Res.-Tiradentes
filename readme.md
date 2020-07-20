@@ -10,7 +10,8 @@ A ideia do app é facilitar o contato entre os vendedores da horta comunitária 
 ![Horta Delivery](assets/gif/20200720_103114.gif)
 
 
-###Tela inicial
+### Tela inicial
+
 ![Horta Delivery](assets/img/horta delivery-inicial.JPG)
 
 
