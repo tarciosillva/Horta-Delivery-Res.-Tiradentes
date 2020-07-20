@@ -7,11 +7,7 @@ A ideia do app é facilitar o contato entre os vendedores da horta comunitária 
 ![Badge](https://img.shields.io/static/v1?label=figma&message=UIdesign&color=blue&style=for-the-badge)
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-</p>
-
-<p align="center">
-  ![Horta Delivery](assets/gif/20200720_103114.gif)
+  <img src=https://github.com/tarciosillva/Horta-Delivery-Res.-Tiradentes/blob/master/assets/gif/20200720_103114.gif">
 </p>
 
 ### Visualização do projeto
