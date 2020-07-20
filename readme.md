@@ -6,8 +6,6 @@
 
 ![Badge](https://img.shields.io/static/v1?label=figma&message=UIdesign&color=blue&style=for-the-badge)
 
-
-<img src="https://github.com/tarciosillva/Horta-Delivery-Res.-Tiradentes/blob/master/assets/gif/20200720_103114.gif" align="center" >
-
+<figure align="center"> <img src="https://github.com/tarciosillva/Horta-Delivery-Res.-Tiradentes/blob/master/assets/gif/20200720_103114.gif"> </figure>
 
 
