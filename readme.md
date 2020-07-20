@@ -9,12 +9,21 @@ A ideia do app é facilitar o contato entre os vendedores da horta comunitária 
 
 ![Horta Delivery](assets/gif/20200720_103114.gif)
 
-
-### Tela inicial
-
-![Horta Delivery](assets/img/horta delivery-inicial.JPG)
+### Visualização do projeto
+<img src="https://github.com/tarciosillva/Horta-Delivery-Res.-Tiradentes/blob/master/assets/img/horta%20delivery.JPG">
 
 
+### Telas do APP
+
+<img src="https://github.com/tarciosillva/Horta-Delivery-Res.-Tiradentes/blob/master/assets/img/horta%20delivery%20-%20inicial.JPG">
+
+<img src="https://github.com/tarciosillva/Horta-Delivery-Res.-Tiradentes/blob/master/assets/img/horta%20delivery%20-%20vendas.JPG">
+
+<img src="https://github.com/tarciosillva/Horta-Delivery-Res.-Tiradentes/blob/master/assets/img/horta%20delivery%20-%20Quantidade.JPG">
+
+<img src="https://github.com/tarciosillva/Horta-Delivery-Res.-Tiradentes/blob/master/assets/img/horta%20delivery%20-%20Entrega.JPG">
+
+<img src="https://github.com/tarciosillva/Horta-Delivery-Res.-Tiradentes/blob/master/assets/img/horta%20delivery%20-%20Confirma%C3%A7%C3%A3o.JPG">
 
 
 
