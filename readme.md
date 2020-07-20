@@ -6,8 +6,9 @@ A ideia do app é facilitar o contato entre os vendedores da horta comunitária 
 
 ![Badge](https://img.shields.io/static/v1?label=figma&message=UIdesign&color=blue&style=for-the-badge)
 
-
-![Horta Delivery](assets/gif/20200720_103114.gif)
+<p align="center">
+  ![Horta Delivery](assets/gif/20200720_103114.gif)
+</p>
 
 ### Visualização do projeto
 <img src="https://github.com/tarciosillva/Horta-Delivery-Res.-Tiradentes/blob/master/assets/img/horta%20delivery.JPG">
